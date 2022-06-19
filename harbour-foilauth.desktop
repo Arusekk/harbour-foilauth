@@ -6,8 +6,10 @@ Icon=harbour-foilauth
 Exec=harbour-foilauth
 
 [X-Sailjail]
-Sandboxing=Disabled
+OrganizationName=com.monich
+ApplicationName=FoilAuth
+Permissions=Camera;Documents
 
 [X-HarbourBackup]
-BackupPathList=.local/share/foil/:Documents/FoilAuth/
+BackupPathList=Documents/FoilAuth/
 BackupConfigList=/apps/harbour-foilauth/

@@ -74,7 +74,7 @@
 
 // Directories relative to home
 #define FOIL_AUTH_DIR           "FoilAuth"
-#define FOIL_KEY_DIR            "foil"
+#define FOIL_KEY_DIR            "com.monich/FoilAuth"
 #define FOIL_KEY_FILE           "foil.key"
 
 #define INFO_FILE               ".info"
